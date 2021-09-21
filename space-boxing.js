@@ -2,7 +2,7 @@ const prompt = require('prompt-sync')();
 
 const weight = Number(prompt('Enter a weight'));
 
-const planet = Number(prompt("Enter a planet"));
+const planet = Number(prompt("Enter a planet number"));
 
 if (planet=== 1){
     

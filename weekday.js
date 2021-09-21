@@ -33,3 +33,6 @@ else if (weekday===7){
     console.log('Sunday');
 
 }
+else   
+
+    console.log('Error');
